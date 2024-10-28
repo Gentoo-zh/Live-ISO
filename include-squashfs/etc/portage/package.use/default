@@ -1,1 +1,2 @@
 app-i18n/fcitx-configtool -qt5 qt6
+app-admin/eclean-kernel zstd
