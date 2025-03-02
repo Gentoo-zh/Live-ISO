@@ -1,3 +1,4 @@
 >=dev-libs/boost-1.84.0-r3 python
 >=sys-boot/grub-2.12-r4 mount
 sys-fs/squashfs-tools lz4 lzma lzo zstd
+dev-libs/libpwquality python
